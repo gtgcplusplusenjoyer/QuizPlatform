@@ -1,0 +1,12 @@
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Core\bin\Debug\net9.0\QuizPlatform.Core.deps.json
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Core\bin\Debug\net9.0\QuizPlatform.Core.dll
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Core\bin\Debug\net9.0\QuizPlatform.Core.pdb
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Core\obj\Debug\net9.0\QuizPlatform.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Core\obj\Debug\net9.0\QuizPlatform.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Core\obj\Debug\net9.0\QuizPlatform.Core.AssemblyInfo.cs
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Core\obj\Debug\net9.0\QuizPlatform.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Core\obj\Debug\net9.0\QuizPlatform.Core.sourcelink.json
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Core\obj\Debug\net9.0\QuizPlatform.Core.dll
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Core\obj\Debug\net9.0\refint\QuizPlatform.Core.dll
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Core\obj\Debug\net9.0\QuizPlatform.Core.pdb
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Core\obj\Debug\net9.0\ref\QuizPlatform.Core.dll

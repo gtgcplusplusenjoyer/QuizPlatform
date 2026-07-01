@@ -3,6 +3,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using QuizPlatform.Core.Repositories;
 using QuizPlatform.Infrastructure.Context;
+using QuizPlatform.Infrastructure.Repositories;
 
 namespace QuizPlatform.Infrastructure.Extensions
 {
@@ -10,7 +11,7 @@ namespace QuizPlatform.Infrastructure.Extensions
     {
         public static IServiceCollection AddInfrastructure(this IServiceCollection services, IConfiguration configuration)
         {
-            services.AddScoped<IUserRepository, IUserRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
 
             services.AddDbContext<QuizPlatformDbContext>(options =>
             {
