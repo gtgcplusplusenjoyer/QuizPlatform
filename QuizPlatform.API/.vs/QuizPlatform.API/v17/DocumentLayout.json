@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Migrations\\20260701074451_AddTableUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuizPlatform.Infrastructure\\Migrations\\20260701074451_AddTableUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F14A00A-3F12-F8BA-B4F5-F8E2BA147BE4}|QuizPlatform.Application\\QuizPlatform.Application.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.application\\dto\\user\\refreshtokerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F14A00A-3F12-F8BA-B4F5-F8E2BA147BE4}|QuizPlatform.Application\\QuizPlatform.Application.csproj|solutionrelative:quizplatform.application\\dto\\user\\refreshtokerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F14A00A-3F12-F8BA-B4F5-F8E2BA147BE4}|QuizPlatform.Application\\QuizPlatform.Application.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.application\\dto\\user\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F14A00A-3F12-F8BA-B4F5-F8E2BA147BE4}|QuizPlatform.Application\\QuizPlatform.Application.csproj|solutionrelative:quizplatform.application\\dto\\user\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F14A00A-3F12-F8BA-B4F5-F8E2BA147BE4}|QuizPlatform.Application\\QuizPlatform.Application.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.application\\dto\\user\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F14A00A-3F12-F8BA-B4F5-F8E2BA147BE4}|QuizPlatform.Application\\QuizPlatform.Application.csproj|solutionrelative:quizplatform.application\\dto\\user\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9CB4AE-9DE2-BBBF-4339-3F1D60AAC173}|QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.infrastructure\\extensions\\addinfrastructureextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9CB4AE-9DE2-BBBF-4339-3F1D60AAC173}|QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj|solutionrelative:quizplatform.infrastructure\\extensions\\addinfrastructureextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9CB4AE-9DE2-BBBF-4339-3F1D60AAC173}|QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.infrastructure\\migrations\\20260701074451_addtableusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9CB4AE-9DE2-BBBF-4339-3F1D60AAC173}|QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj|solutionrelative:quizplatform.infrastructure\\migrations\\20260701074451_addtableusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE9CB4AE-9DE2-BBBF-4339-3F1D60AAC173}|QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.infrastructure\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6DFEB150-74B1-47E9-A677-287B0CA66FDA}|QuizPlatform.API\\QuizPlatform.API.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6DFEB150-74B1-47E9-A677-287B0CA66FDA}|QuizPlatform.API\\QuizPlatform.API.csproj|solutionrelative:quizplatform.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Migrations\\20260701074318_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QuizPlatform.Infrastructure\\Migrations\\20260701074318_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE9CB4AE-9DE2-BBBF-4339-3F1D60AAC173}|QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.infrastructure\\extensions\\addinfrastructureextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE9CB4AE-9DE2-BBBF-4339-3F1D60AAC173}|QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj|solutionrelative:quizplatform.infrastructure\\extensions\\addinfrastructureextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE9CB4AE-9DE2-BBBF-4339-3F1D60AAC173}|QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.infrastructure\\context\\quizplatformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,6 +65,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{FF5EE591-1CB2-F235-D6EC-802ACB414D4D}|QuizPlatform.Core\\QuizPlatform.Core.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF5EE591-1CB2-F235-D6EC-802ACB414D4D}|QuizPlatform.Core\\QuizPlatform.Core.csproj|solutionrelative:quizplatform.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE9CB4AE-9DE2-BBBF-4339-3F1D60AAC173}|QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.infrastructure\\migrations\\20260701074318_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9CB4AE-9DE2-BBBF-4339-3F1D60AAC173}|QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj|solutionrelative:quizplatform.infrastructure\\migrations\\20260701074318_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,6 +91,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RefreshTokerRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Application\\Dto\\User\\RefreshTokerRequestDto.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Application\\Dto\\User\\RefreshTokerRequestDto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Application\\Dto\\User\\RefreshTokerRequestDto.cs",
+              "RelativeToolTip": "QuizPlatform.Application\\Dto\\User\\RefreshTokerRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T07:51:14.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Application\\Dto\\User\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Application\\Dto\\User\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Application\\Dto\\User\\LoginUserDto.cs",
+              "RelativeToolTip": "QuizPlatform.Application\\Dto\\User\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T07:50:19.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Application\\Dto\\User\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Application\\Dto\\User\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Application\\Dto\\User\\RegisterUserDto.cs",
+              "RelativeToolTip": "QuizPlatform.Application\\Dto\\User\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T07:49:29.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20260701074451_AddTableUsers.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Migrations\\20260701074451_AddTableUsers.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\Migrations\\20260701074451_AddTableUsers.cs",
@@ -91,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 16,
               "Title": "20260701074318_Initial.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Migrations\\20260701074318_Initial.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\Migrations\\20260701074318_Initial.cs",
@@ -99,12 +154,11 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Migrations\\20260701074318_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:43:18.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:43:18.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "AddInfrastructureExtension.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Extensions\\AddInfrastructureExtension.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\Extensions\\AddInfrastructureExtension.cs",
@@ -117,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "QuizPlatform.API\\appsettings.Development.json",
@@ -125,12 +179,11 @@
               "RelativeToolTip": "QuizPlatform.API\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-30T07:51:57.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T07:51:57.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.API\\Program.cs",
               "RelativeDocumentMoniker": "QuizPlatform.API\\Program.cs",
@@ -138,12 +191,11 @@
               "RelativeToolTip": "QuizPlatform.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T07:45:15.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T07:45:15.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "QuizPlatform.API.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.API\\QuizPlatform.API.csproj",
               "RelativeDocumentMoniker": "QuizPlatform.API\\QuizPlatform.API.csproj",
@@ -155,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\Configurations\\UserConfiguration.cs",
@@ -163,16 +215,11 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Configurations\\UserConfiguration.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T08:10:41.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "WhenOpened": "2026-06-30T08:10:41.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "QuizPlatformDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Context\\QuizPlatformDbContext.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\Context\\QuizPlatformDbContext.cs",
@@ -184,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "QuizPlatform.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj",
@@ -196,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.API\\appsettings.json",
               "RelativeDocumentMoniker": "QuizPlatform.API\\appsettings.json",
@@ -208,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\Repositories\\UserRepository.cs",
@@ -220,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Core\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Core\\Repositories\\IUserRepository.cs",
@@ -232,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Core\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Core\\Entities\\BaseEntity.cs",
@@ -244,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Core\\Entities\\User.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Core\\Entities\\User.cs",
