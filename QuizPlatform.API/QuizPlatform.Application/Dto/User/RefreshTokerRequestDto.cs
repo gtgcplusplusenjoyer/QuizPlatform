@@ -1,4 +1,4 @@
 ﻿namespace QuizPlatform.Application.Dto.User
 {
-    public record RefreshTokerRequestDto(string refreshToken);
+    public record RefreshTokerRequestDto(string RefreshToken);
 }

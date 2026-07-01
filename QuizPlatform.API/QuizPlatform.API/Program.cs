@@ -1,4 +1,5 @@
 using QuizPlatform.Infrastructure.Extensions;
+using QuizPlatform.Application.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +8,7 @@ builder.Services.AddOpenApi();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddInfrastructure(builder.Configuration);
+builder.Services.AddValidation();
 
 var app = builder.Build();
 

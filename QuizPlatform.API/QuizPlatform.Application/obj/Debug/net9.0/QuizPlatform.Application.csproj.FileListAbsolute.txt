@@ -10,3 +10,4 @@ C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Application\o
 C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Application\obj\Debug\net9.0\refint\QuizPlatform.Application.dll
 C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Application\obj\Debug\net9.0\QuizPlatform.Application.pdb
 C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Application\obj\Debug\net9.0\ref\QuizPlatform.Application.dll
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.Application\obj\Debug\net9.0\QuizPlatform.Application.csproj.AssemblyReference.cache

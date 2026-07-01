@@ -163,3 +163,9 @@ C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.API\obj\Debug
 C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.API\obj\Debug\net9.0\QuizPlatform.API.pdb
 C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.API\obj\Debug\net9.0\QuizPlatform.API.genruntimeconfig.cache
 C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.API\obj\Debug\net9.0\ref\QuizPlatform.API.dll
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.API\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.API\bin\Debug\net9.0\SharpGrip.FluentValidation.AutoValidation.Mvc.dll
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.API\bin\Debug\net9.0\SharpGrip.FluentValidation.AutoValidation.Shared.dll
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.API\bin\Debug\net9.0\QuizPlatform.Application.dll
+C:\Users\User\Documents\QuizPlatform\QuizPlatform.API\QuizPlatform.API\bin\Debug\net9.0\QuizPlatform.Application.pdb
