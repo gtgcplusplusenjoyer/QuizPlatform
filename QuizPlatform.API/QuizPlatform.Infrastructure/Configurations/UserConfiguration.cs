@@ -25,6 +25,8 @@ namespace QuizPlatform.Infrastructure.Configurations
             builder.Property(u => u.CreatedAt)
                 .IsRequired()
                 .HasDefaultValueSql("CURRENT_TIMESTAMP");
+
+            builder.ToTable("Users");
         }
          
     }
