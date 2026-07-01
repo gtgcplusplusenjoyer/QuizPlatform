@@ -114,8 +114,7 @@
               "RelativeToolTip": "QuizPlatform.Application\\Extensions\\AddValidationExtension.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T08:01:49.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T08:01:49.577Z"
             },
             {
               "$type": "Document",
@@ -127,8 +126,7 @@
               "RelativeToolTip": "QuizPlatform.Application\\Validators\\RefreshTokerRequestDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:53:35.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:53:35.089Z"
             },
             {
               "$type": "Document",
@@ -140,8 +138,7 @@
               "RelativeToolTip": "QuizPlatform.Application\\Validators\\LoginUserDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:52:55.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:52:55.612Z"
             },
             {
               "$type": "Document",
@@ -153,8 +150,7 @@
               "RelativeToolTip": "QuizPlatform.Application\\Dto\\User\\RefreshTokerRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:51:14.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:51:14.476Z"
             },
             {
               "$type": "Document",
@@ -166,8 +162,7 @@
               "RelativeToolTip": "QuizPlatform.Application\\Validators\\RegisterUserDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:53:09.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:53:09.838Z"
             },
             {
               "$type": "Document",
@@ -177,7 +172,7 @@
               "RelativeDocumentMoniker": "QuizPlatform.API\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.API\\Program.cs",
               "RelativeToolTip": "QuizPlatform.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T07:45:15.123Z",
               "EditorCaption": ""
@@ -196,8 +191,7 @@
               "RelativeToolTip": "QuizPlatform.Application\\Dto\\User\\LoginUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:50:19.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:50:19.202Z"
             },
             {
               "$type": "Document",
@@ -209,8 +203,7 @@
               "RelativeToolTip": "QuizPlatform.Application\\Dto\\User\\RegisterUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:49:29.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:49:29.722Z"
             },
             {
               "$type": "Document",
@@ -222,8 +215,7 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Migrations\\20260701074451_AddTableUsers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:44:51.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:44:51.806Z"
             },
             {
               "$type": "Document",
@@ -235,8 +227,7 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Migrations\\20260701074318_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:43:18.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:43:18.263Z"
             },
             {
               "$type": "Document",
@@ -248,8 +239,7 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Extensions\\AddInfrastructureExtension.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:24:47.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:24:47.727Z"
             },
             {
               "$type": "Document",
@@ -261,8 +251,7 @@
               "RelativeToolTip": "QuizPlatform.API\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-30T07:51:57.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T07:51:57.084Z"
             },
             {
               "$type": "Document",
@@ -274,8 +263,7 @@
               "RelativeToolTip": "QuizPlatform.API\\QuizPlatform.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-30T08:34:32.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T08:34:32.832Z"
             },
             {
               "$type": "Document",
@@ -287,8 +275,7 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Configurations\\UserConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T08:10:41.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T08:10:41.987Z"
             },
             {
               "$type": "Document",
@@ -300,8 +287,7 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Context\\QuizPlatformDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T08:03:15.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T08:03:15.242Z"
             },
             {
               "$type": "Document",
@@ -313,8 +299,7 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-30T08:34:25.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T08:34:25.277Z"
             },
             {
               "$type": "Document",
@@ -326,8 +311,7 @@
               "RelativeToolTip": "QuizPlatform.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-30T07:51:55.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T07:51:55.009Z"
             },
             {
               "$type": "Document",
@@ -339,8 +323,7 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T08:24:52.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T08:24:52.78Z"
             },
             {
               "$type": "Document",
@@ -352,8 +335,7 @@
               "RelativeToolTip": "QuizPlatform.Core\\Repositories\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T08:20:48.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T08:20:48.203Z"
             },
             {
               "$type": "Document",
@@ -365,8 +347,7 @@
               "RelativeToolTip": "QuizPlatform.Core\\Entities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T07:57:52.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T07:57:52.876Z"
             },
             {
               "$type": "Document",
@@ -378,8 +359,7 @@
               "RelativeToolTip": "QuizPlatform.Core\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T07:55:40.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T07:55:40.933Z"
             }
           ]
         }
