@@ -1,4 +1,4 @@
-﻿using QuizPlatform.Core.Repositories.External;
+﻿using QuizPlatform.Core.External;
 
 namespace QuizPlatform.Infrastructure.External
 {

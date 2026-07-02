@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AE9CB4AE-9DE2-BBBF-4339-3F1D60AAC173}|QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.infrastructure\\external\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE9CB4AE-9DE2-BBBF-4339-3F1D60AAC173}|QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj|solutionrelative:quizplatform.infrastructure\\external\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE9CB4AE-9DE2-BBBF-4339-3F1D60AAC173}|QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.infrastructure\\external\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE9CB4AE-9DE2-BBBF-4339-3F1D60AAC173}|QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj|solutionrelative:quizplatform.infrastructure\\external\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF5EE591-1CB2-F235-D6EC-802ACB414D4D}|QuizPlatform.Core\\QuizPlatform.Core.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.core\\repositories\\external\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF5EE591-1CB2-F235-D6EC-802ACB414D4D}|QuizPlatform.Core\\QuizPlatform.Core.csproj|solutionrelative:quizplatform.core\\repositories\\external\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF5EE591-1CB2-F235-D6EC-802ACB414D4D}|QuizPlatform.Core\\QuizPlatform.Core.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.core\\external\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5EE591-1CB2-F235-D6EC-802ACB414D4D}|QuizPlatform.Core\\QuizPlatform.Core.csproj|solutionrelative:quizplatform.core\\external\\itokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF5EE591-1CB2-F235-D6EC-802ACB414D4D}|QuizPlatform.Core\\QuizPlatform.Core.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.core\\external\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF5EE591-1CB2-F235-D6EC-802ACB414D4D}|QuizPlatform.Core\\QuizPlatform.Core.csproj|solutionrelative:quizplatform.core\\external\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF5EE591-1CB2-F235-D6EC-802ACB414D4D}|QuizPlatform.Core\\QuizPlatform.Core.csproj|c:\\users\\user\\documents\\quizplatform\\quizplatform.api\\quizplatform.core\\tokens\\tokenpair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,7 +122,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -125,8 +133,37 @@
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\External\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\External\\TokenGenerator.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\External\\TokenGenerator.cs",
+              "RelativeToolTip": "QuizPlatform.Infrastructure\\External\\TokenGenerator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T07:41:08.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Core\\External\\ITokenGenerator.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Core\\External\\ITokenGenerator.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Core\\External\\ITokenGenerator.cs",
+              "RelativeToolTip": "QuizPlatform.Core\\External\\ITokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T07:39:15.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\External\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\External\\PasswordHasher.cs",
@@ -134,29 +171,23 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\External\\PasswordHasher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T07:31:24.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T07:31:24.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IPasswordHasher.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Core\\Repositories\\External\\IPasswordHasher.cs",
-              "RelativeDocumentMoniker": "QuizPlatform.Core\\Repositories\\External\\IPasswordHasher.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Core\\Repositories\\External\\IPasswordHasher.cs",
-              "RelativeToolTip": "QuizPlatform.Core\\Repositories\\External\\IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Core\\External\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "QuizPlatform.Core\\External\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Core\\External\\IPasswordHasher.cs",
+              "RelativeToolTip": "QuizPlatform.Core\\External\\IPasswordHasher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T07:30:01.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "WhenOpened": "2026-07-02T07:30:01.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "TokenPair.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Core\\Tokens\\TokenPair.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Core\\Tokens\\TokenPair.cs",
@@ -164,12 +195,11 @@
               "RelativeToolTip": "QuizPlatform.Core\\Tokens\\TokenPair.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T07:25:04.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T07:25:04.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RefreshToken.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Core\\Tokens\\RefreshToken.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Core\\Tokens\\RefreshToken.cs",
@@ -177,12 +207,11 @@
               "RelativeToolTip": "QuizPlatform.Core\\Tokens\\RefreshToken.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-02T07:23:09.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-02T07:23:09.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\Repositories\\UserRepository.cs",
@@ -190,12 +219,11 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T08:24:52.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T08:24:52.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "AddInfrastructureExtension.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Extensions\\AddInfrastructureExtension.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\Extensions\\AddInfrastructureExtension.cs",
@@ -203,12 +231,11 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Extensions\\AddInfrastructureExtension.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:24:47.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:24:47.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Core\\Entities\\User.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Core\\Entities\\User.cs",
@@ -216,12 +243,11 @@
               "RelativeToolTip": "QuizPlatform.Core\\Entities\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T07:55:40.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T07:55:40.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.API\\appsettings.Development.json",
               "RelativeDocumentMoniker": "QuizPlatform.API\\appsettings.Development.json",
@@ -229,12 +255,11 @@
               "RelativeToolTip": "QuizPlatform.API\\appsettings.Development.json",
               "ViewState": "AgIAAA8AAAAAAAAAAABRwA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-30T07:51:57.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T07:51:57.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Core\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Core\\Repositories\\IUserRepository.cs",
@@ -242,12 +267,11 @@
               "RelativeToolTip": "QuizPlatform.Core\\Repositories\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T08:20:48.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T08:20:48.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Core\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Core\\Entities\\BaseEntity.cs",
@@ -255,12 +279,11 @@
               "RelativeToolTip": "QuizPlatform.Core\\Entities\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T07:57:52.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T07:57:52.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.API\\Program.cs",
               "RelativeDocumentMoniker": "QuizPlatform.API\\Program.cs",
@@ -268,12 +291,11 @@
               "RelativeToolTip": "QuizPlatform.API\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAEBVwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T07:45:15.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T07:45:15.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AuthSettings.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Settings\\AuthSettings.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\Settings\\AuthSettings.cs",
@@ -281,12 +303,11 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Settings\\AuthSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:13:36.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:13:36.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "RegisterUserDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Application\\Validators\\RegisterUserDtoValidator.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Application\\Validators\\RegisterUserDtoValidator.cs",
@@ -294,12 +315,11 @@
               "RelativeToolTip": "QuizPlatform.Application\\Validators\\RegisterUserDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:53:09.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:53:09.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "RefreshTokerRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Application\\Dto\\User\\RefreshTokerRequestDto.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Application\\Dto\\User\\RefreshTokerRequestDto.cs",
@@ -307,12 +327,11 @@
               "RelativeToolTip": "QuizPlatform.Application\\Dto\\User\\RefreshTokerRequestDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:51:14.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:51:14.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "LoginUserDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Application\\Validators\\LoginUserDtoValidator.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Application\\Validators\\LoginUserDtoValidator.cs",
@@ -320,12 +339,11 @@
               "RelativeToolTip": "QuizPlatform.Application\\Validators\\LoginUserDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:52:55.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:52:55.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "RefreshTokerRequestDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Application\\Validators\\RefreshTokerRequestDtoValidator.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Application\\Validators\\RefreshTokerRequestDtoValidator.cs",
@@ -333,12 +351,11 @@
               "RelativeToolTip": "QuizPlatform.Application\\Validators\\RefreshTokerRequestDtoValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:53:35.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:53:35.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "AddValidationExtension.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Application\\Extensions\\AddValidationExtension.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Application\\Extensions\\AddValidationExtension.cs",
@@ -346,12 +363,11 @@
               "RelativeToolTip": "QuizPlatform.Application\\Extensions\\AddValidationExtension.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T08:01:49.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T08:01:49.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "LoginUserDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Application\\Dto\\User\\LoginUserDto.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Application\\Dto\\User\\LoginUserDto.cs",
@@ -359,12 +375,11 @@
               "RelativeToolTip": "QuizPlatform.Application\\Dto\\User\\LoginUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:50:19.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:50:19.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "RegisterUserDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Application\\Dto\\User\\RegisterUserDto.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Application\\Dto\\User\\RegisterUserDto.cs",
@@ -372,12 +387,11 @@
               "RelativeToolTip": "QuizPlatform.Application\\Dto\\User\\RegisterUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:49:29.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:49:29.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "20260701074451_AddTableUsers.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Migrations\\20260701074451_AddTableUsers.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\Migrations\\20260701074451_AddTableUsers.cs",
@@ -385,12 +399,11 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Migrations\\20260701074451_AddTableUsers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:44:51.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:44:51.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "20260701074318_Initial.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Migrations\\20260701074318_Initial.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\Migrations\\20260701074318_Initial.cs",
@@ -398,12 +411,11 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Migrations\\20260701074318_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T07:43:18.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T07:43:18.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "QuizPlatform.API.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.API\\QuizPlatform.API.csproj",
               "RelativeDocumentMoniker": "QuizPlatform.API\\QuizPlatform.API.csproj",
@@ -411,12 +423,11 @@
               "RelativeToolTip": "QuizPlatform.API\\QuizPlatform.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-30T08:34:32.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T08:34:32.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "UserConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Configurations\\UserConfiguration.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\Configurations\\UserConfiguration.cs",
@@ -424,12 +435,11 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Configurations\\UserConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T08:10:41.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T08:10:41.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "QuizPlatformDbContext.cs",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\Context\\QuizPlatformDbContext.cs",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\Context\\QuizPlatformDbContext.cs",
@@ -437,12 +447,11 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\Context\\QuizPlatformDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T08:03:15.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T08:03:15.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "QuizPlatform.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj",
               "RelativeDocumentMoniker": "QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj",
@@ -450,12 +459,11 @@
               "RelativeToolTip": "QuizPlatform.Infrastructure\\QuizPlatform.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-30T08:34:25.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T08:34:25.277Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\Documents\\QuizPlatform\\QuizPlatform.API\\QuizPlatform.API\\appsettings.json",
               "RelativeDocumentMoniker": "QuizPlatform.API\\appsettings.json",
@@ -463,8 +471,7 @@
               "RelativeToolTip": "QuizPlatform.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-30T07:51:55.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T07:51:55.009Z"
             }
           ]
         }

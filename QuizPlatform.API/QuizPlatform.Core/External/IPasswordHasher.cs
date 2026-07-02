@@ -1,4 +1,4 @@
-﻿namespace QuizPlatform.Core.Repositories.External
+﻿namespace QuizPlatform.Core.External
 {
     public interface IPasswordHasher
     {
