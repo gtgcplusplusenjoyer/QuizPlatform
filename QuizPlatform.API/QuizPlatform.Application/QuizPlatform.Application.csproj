@@ -12,4 +12,9 @@
     <PackageReference Include="SharpGrip.FluentValidation.AutoValidation.Mvc" Version="2.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\QuizPlatform.Core\QuizPlatform.Core.csproj" />
+    <ProjectReference Include="..\QuizPlatform.Infrastructure\QuizPlatform.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

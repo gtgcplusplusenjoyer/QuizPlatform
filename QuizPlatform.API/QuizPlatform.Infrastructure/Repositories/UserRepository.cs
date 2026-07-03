@@ -20,12 +20,12 @@ namespace QuizPlatform.Infrastructure.Repositories
             await _users.AddAsync(user, cancellationToken);
         }
 
-        public async Task<User?> GetUserByEmail(string email, CancellationToken cancellationToken)
+        public async Task<User?> GetUserByEmailAsync(string email, CancellationToken cancellationToken)
         {
             return await _users.FirstOrDefaultAsync(u => u.Email == email, cancellationToken);
         }
 
-        public async Task<User?> GetUserById(Guid userId, CancellationToken cancellationToken)
+        public async Task<User?> GetUserByIdAsync(Guid userId, CancellationToken cancellationToken)
         {
             return await _users.FirstOrDefaultAsync(u=>u.Id== userId, cancellationToken);
         }
