@@ -11,8 +11,7 @@ namespace QuizPlatform.Application.Validators
                 .NotEmpty().WithMessage("Refresh token is required")
                 .NotNull().WithMessage("Refresh token cannot be null")
                 .MinimumLength(32).WithMessage("Refresh token must be at least 32 characters long")
-                .MaximumLength(500).WithMessage("Refresh token must not exceed 500 characters")
-                .Matches("^[A-Za-z0-9+/=]+$").WithMessage("Refresh token contains invalid characters");
+                .MaximumLength(500).WithMessage("Refresh token must not exceed 500 characters");
         }
     }
 }

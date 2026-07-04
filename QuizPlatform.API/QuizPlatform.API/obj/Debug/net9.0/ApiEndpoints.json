@@ -34,9 +34,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "refreshTokerRequestDto",
-        "Type": "QuizPlatform.Application.Dto.User.RefreshTokerRequestDto",
-        "IsRequired": true
+        "Name": "RefreshToken",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

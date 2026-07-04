@@ -74,7 +74,7 @@ namespace QuizPlatform.API.Controllers
         }
 
         [HttpPost("refresh")]
-        public async Task<IActionResult> Refresh([FromBody] RefreshTokerRequestDto refreshTokerRequestDto,
+        public async Task<IActionResult> Refresh([FromQuery] RefreshTokerRequestDto refreshTokerRequestDto,
             CancellationToken cancellationToken)
         {
             var result = await _service.RefreshToken(refreshTokerRequestDto.RefreshToken, cancellationToken);
