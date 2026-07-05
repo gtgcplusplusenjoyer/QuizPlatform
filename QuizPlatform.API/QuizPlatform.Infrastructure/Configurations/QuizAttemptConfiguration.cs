@@ -22,10 +22,10 @@ namespace QuizPlatform.Infrastructure.Configurations
 
             builder.Property(a => a.StartedAt)
                 .IsRequired()
-                .HasColumnType("datetime2");
+                .HasColumnType("timestamp");
 
             builder.Property(a => a.FinishedAt)
-                .HasColumnType("datetime2");
+                .HasColumnType("timestamp");
 
             builder.Property(a => a.Score)
                 .HasColumnType("int");
