@@ -17,8 +17,4 @@
     <ProjectReference Include="..\QuizPlatform.Infrastructure\QuizPlatform.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Dto\Attempt\" />
-  </ItemGroup>
-
 </Project>
