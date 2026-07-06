@@ -7,7 +7,8 @@ namespace QuizPlatform.Core.Repositories
         Task<Quiz> GetByIdAsync(Guid id,CancellationToken cancellationToken);
         Task<List<Quiz>> GetByAuthorIdAsync(Guid userId,CancellationToken cancellationToken);
         Task AddAsync(Quiz quiz,CancellationToken cancellationToken);
-        Task UpdateAsync(Quiz quiz);
-        Task DeleteAsync(Guid id);
+        void Update(Quiz quiz);
+        Task DeleteAsync(Guid id); 
+        Task SaveChangesAsync(CancellationToken cancellationToken);
     }
 }

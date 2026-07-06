@@ -21,6 +21,7 @@ namespace QuizPlatform.Infrastructure.Extensions
             services.AddScoped<IRefreshTokenRepository, RefreshTokenRepository>();
             services.AddScoped<IPasswordHasher, PasswordHasher>();
             services.AddScoped<ITokenGenerator, TokenGenerator>();
+            services.AddScoped<IQuizRepository, QuizRepository>();  
 
             services.AddDbContext<QuizPlatformDbContext>(options =>
             {
