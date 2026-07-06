@@ -9,6 +9,8 @@ namespace QuizPlatform.Application.Extensions
         public static IServiceCollection AddApplication(this IServiceCollection services)
         {
             services.AddScoped<IAuthService, AuthService>();
+            services.AddScoped<IAttemptService, AttemptService>();
+            services.AddScoped<IQuizService, QuizService>();
 
             return services;
         }
