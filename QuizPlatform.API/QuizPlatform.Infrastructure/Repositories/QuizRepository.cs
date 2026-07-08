@@ -52,5 +52,13 @@ namespace QuizPlatform.Infrastructure.Repositories
         {
             await _context.SaveChangesAsync(cancellationToken);
         }
+
+        public async Task<Quiz?> GetQuizWithQuestionsAndAnswersAsync(Guid id, CancellationToken cancellationToken)
+        { 
+            return await _quizzes.
+                Include(q =>q.Questions)
+                .ThenInclude(q => q.AnswerOptions)
+                .FirstOrDefaultAsync(q=>q.Id == id, cancellationToken); 
+        }
     }
 }

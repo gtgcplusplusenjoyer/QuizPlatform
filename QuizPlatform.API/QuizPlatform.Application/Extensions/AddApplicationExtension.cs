@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using QuizPlatform.Application.Interfaces;
+using QuizPlatform.Application.Mapper;
 using QuizPlatform.Application.Services;
 
 namespace QuizPlatform.Application.Extensions
@@ -9,7 +10,8 @@ namespace QuizPlatform.Application.Extensions
         public static IServiceCollection AddApplication(this IServiceCollection services)
         {
             services.AddScoped<IAuthService, AuthService>();
-            services.AddScoped<IAttemptService, AttemptService>();
+            services.AddAutoMapper(cfg => { }, typeof(QuizMapper));
+            //services.AddScoped<IAttemptService, AttemptService>();
             services.AddScoped<IQuizService, QuizService>();
 
             return services;

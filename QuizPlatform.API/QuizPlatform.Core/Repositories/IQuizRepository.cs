@@ -10,5 +10,6 @@ namespace QuizPlatform.Core.Repositories
         void Update(Quiz quiz);
         Task DeleteAsync(Guid id); 
         Task SaveChangesAsync(CancellationToken cancellationToken);
+        Task<Quiz?> GetQuizWithQuestionsAndAnswersAsync(Guid id, CancellationToken cancellationToken);
     }
 }

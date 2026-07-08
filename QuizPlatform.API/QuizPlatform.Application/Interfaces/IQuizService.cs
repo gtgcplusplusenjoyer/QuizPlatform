@@ -9,6 +9,6 @@ namespace QuizPlatform.Application.Interfaces
         Task<QuizResponseDto> CreateQuizAsync(CreateQuizRequestDto createQuizRequestDto, Guid userId, CancellationToken cancellationToken);
         Task DeleteQuizAsync(Guid quizId, Guid userId, CancellationToken cancellationToken);
         Task UpdateQuizAsync(Guid quizId, UpdateQuizRequestDto updateQuizRequestDto, Guid userId, CancellationToken cancellationToken);
-        Task PublishQuizAsync(Guid quizId, CancellationToken cancellationToken);
+        Task PublishQuizAsync(Guid quizId, Guid userId, CancellationToken cancellationToken);
     }
 }
